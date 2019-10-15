@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "查看启动日志",
+  "usingComponents": {
+    "van-button": "../../miniprogram_npm/vant-weapp/button",
+    "van-swipe-cell": "../../miniprogram_npm/vant-weapp/swipe-cell"
+  }
+}
